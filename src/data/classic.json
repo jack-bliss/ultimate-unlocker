@@ -1,0 +1,90 @@
+{
+  "mario": [
+    "sonic",
+    "bayonetta",
+    "little_mac",
+    "ike",
+    "luigi",
+    "roy",
+    "dr_mario",
+    "C",
+    "bowser"
+  ],
+  "donkey_kong": [
+    "bowser",
+    "pokemon_trainer",
+    "rosalina_and_luma",
+    "king_dedede",
+    "sheik",
+    "greninja",
+    "diddy_kong",
+    "duck_hunt",
+    "sonic"
+  ],
+  "link": [
+    "king_k_rool",
+    "ice_climbers",
+    "simon",
+    "meta_knight",
+    "snake",
+    "young_link",
+    "richter",
+    "toon_link",
+    "sonic"
+  ],
+  "samus": [
+    "inkling",
+    "wii_fit_trainer",
+    "pit",
+    "incineroar",
+    "dark_samus",
+    "cloud",
+    "wario",
+    "dark_pit",
+    "sonic"
+  ],
+  "yoshi": [
+    "lucario",
+    "marth",
+    "ryu",
+    "ganondorf",
+    "lucina",
+    "ridley",
+    "chrom",
+    "ken",
+    "sonic"
+  ],
+  "kirby": [
+    "ness",
+    "jigglypuff",
+    "pac_man",
+    "zelda",
+    "robin",
+    "corrin",
+    "lucas",
+    "palutena",
+    "sonic"
+  ],
+  "fox": [
+    "captain_falcon",
+    "zero_suit_samus",
+    "peach",
+    "falco",
+    "daisy",
+    "bowser_jr",
+    "wolf",
+    "mewtwo",
+    "sonic"
+  ],
+  "pikachu": [
+    "villager",
+    "shulk",
+    "rob",
+    "mega_man",
+    "isabelle",
+    "mr_game_and_watch",
+    "pichu",
+    "sonic",
+    "bayonetta"
+  ]
+}
